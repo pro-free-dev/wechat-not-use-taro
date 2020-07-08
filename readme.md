@@ -62,3 +62,7 @@
 - 组件间通讯
 - 跨页数据共享
 - 状态和组件关联
+
+https://juejin.im/post/5a5b70726fb9a01ca871ee51   
+https://github.com/charleyw/wechat-weapp-redux
+
